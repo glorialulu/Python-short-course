@@ -1,4 +1,4 @@
-# Python-short-course
+
 
 Welcome to Python short course's documentation!
 ===============================================
